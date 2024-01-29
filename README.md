@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi, I'm Hidayet Furkan Özer 👋
 
 <!--
 **furkanozer/furkanozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Oracle
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm studying at Hacettepe University department of Statistics. I will graduate in June 2024.
+I improve myself at school lessons and in online educations.
+I'm interest in data analaysis and for this I learned data mining, manipulation, visualization, regression analysis and reporting.  
+I'm use to Python, R, SPSS and SQL etc.
+
